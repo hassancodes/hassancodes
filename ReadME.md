@@ -1,5 +1,6 @@
 <h2> Hey there! I'm Hassan! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>-->
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fmemecandy-LmNwrBhejkK9EFP504&psig=AOvVaw0AdX08oIo3cfE6l69oxwtE&ust=1609981566393000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCMiu-Ohu4CFQAAAAAdAAAAABAD" width="500"/>
 
 <h3> '👨🏻‍💻 About Me' </h3>
 

@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Hassan! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>-->
-<img align="right" alt="GIF" src="https://github.com/hassancodes/mydata/blob/main/giphy.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/hassancodes/mydata/blob/main/giphy.gif" width="212" heigh='280'/>
 <iframe align=right src="https://giphy.com/embed/oFvFtrhrmIFFe" width="412" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <p><a href="https://giphy.com/gifs/mr-robot-gif-art-portrait-oFvFtrhrmIFFe">via GIPHY</a></p>
 

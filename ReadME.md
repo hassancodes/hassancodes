@@ -11,7 +11,7 @@
 - 💼 &nbsp; front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I need a perfect cup of Chai to solve hard problems and to relieve from stress. 
+- ☕ &nbsp; I need a perfect cup of Chai to solve hard problems and to get relieve from stress. 
 
 <h3>🛠 Tech Stack</h3>
 

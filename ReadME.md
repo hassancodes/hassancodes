@@ -5,12 +5,12 @@
 
 <h3> '👨🏻‍💻 About Me' </h3>
 
-- 🔭 &nbsp; I’m currently learning React Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🔭 &nbsp; I’m currently learning React Application Development.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Computer Science and Mathematics.
 - 💼 &nbsp; front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- 🌱 &nbsp; Enthusiast in cyber Security.
+- ✍️ &nbsp; trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I need a perfect cup of Chai to solve hard problems and to get relieve from stress. 
 
 <h3>🛠 Tech Stack</h3>

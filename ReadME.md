@@ -34,4 +34,4 @@
 </p>
 <hr/>
 
-<h3 align=center><a href="https://thecodingneuron.com" >Bucket of My random Thoughts</a></h3>
+<h3 align=center><a href="https://thecodingneuron.blogspot.com" >Bucket of My random Thoughts</a></h3>

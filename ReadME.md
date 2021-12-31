@@ -5,7 +5,7 @@
 
 <h3> '👨🏻‍💻 About Me!'✅ </h3>
 
-- 🔭 &nbsp; I’m currently learning React Application Development.
+- 🔭 &nbsp; I’m currently learning React Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science and Mathematics.
 - 💼 &nbsp; front-end web developer.

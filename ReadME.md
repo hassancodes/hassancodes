@@ -1,5 +1,5 @@
 <h2> Hi there, I'm Hassan🧑🏼‍💻, An aspiring SOFTWARE developer <img src="https://github.com/hassancodes/mydata/blob/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/hassancodes/mydata/blob/main/giphy.gif" width="312" heigh='380'/>
+<!-- <img align="right" alt="GIF" src="https://github.com/hassancodes/mydata/blob/main/giphy.gif" width="312" heigh='380'/> -->
 
 
 

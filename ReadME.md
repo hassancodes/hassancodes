@@ -5,14 +5,8 @@
 
 <h3> '👨🏻‍💻 About Me!😎' </h3>
 
-- 🔭 &nbsp; I’m currently learning flask development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science and Mathematics.
-- 💼 &nbsp; front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security.
-- ✍️ &nbsp; trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I need a perfect cup of Chai to solve problems and to get relieve from stress. 
-- 🙂 &nbsp; Some shopify and worpress as well
+- 🔭 &nbsp; Aspiring Software Engineer
+- 🤔 &nbsp; Building Ai-Academic Advisor in Public
 
 <h3>🛠 Tech Stack</h3>
 

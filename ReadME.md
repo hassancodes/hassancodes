@@ -5,7 +5,7 @@
 
 <h3> '👨🏻‍💻 About Me!😎' </h3>
 
-- 🔭 &nbsp; Aspiring Software Engineer
+- 🔭 &nbsp; Aspiring Software Engineer.
 - 🤔 &nbsp; Building Cool Stuff using my Skills
 
 <h3>🛠 Tech Stack</h3>

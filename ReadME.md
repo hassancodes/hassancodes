@@ -7,6 +7,7 @@
 
 - 🔭 &nbsp; Aspiring Software Engineer.
 - 🤔 &nbsp; Building Cool Stuff using my Skills
+- Currently working with react
 
 <h3>🛠 Tech Stack</h3>
 

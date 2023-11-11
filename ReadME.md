@@ -15,6 +15,7 @@
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Tailwind CSS
 - 🔧 &nbsp; Github | PyCharm | Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Figma | Adobe XD | FRAMER
+- 📈 &nbsp; Tableau
 
 
 

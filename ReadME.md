@@ -16,7 +16,7 @@
 - 🔧 &nbsp; Github | PyCharm | Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Figma | Adobe XD | FRAMER
 - 📈 &nbsp; Tableau
-- - 📈 &nbsp; I am an Artist, Not a Robot
+- - 📈 &nbsp; I am an Artist, Not a Robot.
 
 
 

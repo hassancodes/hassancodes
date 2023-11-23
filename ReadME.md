@@ -14,7 +14,7 @@
 - 💻 &nbsp; Python | JAVA | JavaScript | Ruby |
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Tailwind CSS
 - 🔧 &nbsp; Github | PyCharm | Visual Studio code | Git
-- 🖥 &nbsp; Illustrator | Photoshop | Figma | Adobe XD | FRAMER
+- 🖥 &nbsp; Illustrator | Photoshop | Figma | Adobe XD | FRAMER | Skectch
 - 📈 &nbsp; Tableau
 - 📈 &nbsp; Numpy | Pandas | Matplotlib
 - - 📈 &nbsp; I am an Artist, Not a Robot. Actually a Robist

@@ -18,6 +18,7 @@
 - 📈 &nbsp; Tableau
 - 📈 &nbsp; Numpy | Pandas | Matplotlib
 - - 📈 &nbsp; I am an Artist, Not a Robot. Actually a robist.
+    ==========================================================
 
 
 

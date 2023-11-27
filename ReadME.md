@@ -17,7 +17,7 @@
 - 🖥 &nbsp; Illustrator | Photoshop | Figma | Adobe XD | FRAMER | Skectch
 - 📈 &nbsp; Tableau
 - 📈 &nbsp; Numpy | Pandas | Matplotlib
-- - 📈 &nbsp; I am an Artist, Not a Robot. Actually a Robist
+- - 📈 &nbsp; I am an Artist, Not a Robot. Actually a robist.
 
 
 

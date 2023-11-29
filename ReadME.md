@@ -5,7 +5,7 @@
 
 <h3> '👨🏻‍💻 About Me!😎' </h3>
 
-- 🔭 &nbsp; Software Engineer | Designer.
+- 🔭 &nbsp; Software Engineer | Part Time Designer 
 - 🤔 &nbsp; Building Cool Stuff using my Skills
 - Currently working with react
 

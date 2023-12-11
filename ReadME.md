@@ -16,7 +16,7 @@
 - 🔧 &nbsp; Github | PyCharm | Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Figma | Adobe XD | FRAMER | Skectch
 - 📈 &nbsp; Tableau
-- 📈 &nbsp; Numpy.py | Pandas.py | Matplotlib.py
+- 📈 &nbsp; Numpy.py | Pandas.py | Matplotlib
 - - 📈 &nbsp; I am an Artist.
     ==========================================================
 

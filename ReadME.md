@@ -17,7 +17,7 @@
 - 🖥 &nbsp; Illustrator | Photoshop | Figma | Adobe XD | FRAMER | Skectch
 - 📈 &nbsp; Tableau
 - 📈 &nbsp; Numpy.py | Pandas.py | Matplotlib
-- - 📈 &nbsp; I am an Artist.
+- - 📈 &nbsp; I am an Artist. But i only get to use 0 and 1
     ==========================================================
 
 

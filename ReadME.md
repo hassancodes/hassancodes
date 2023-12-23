@@ -9,7 +9,7 @@
 - 🤔 &nbsp; Building Cool Stuff using my Skills
 - Currently working with react
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack:</h3>
 
 - 💻 &nbsp; Python | JAVA | JavaScript | Ruby |
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Tailwind CSS

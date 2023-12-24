@@ -11,6 +11,7 @@ Be a part of Social-Link Fam [Social-link Fam 🔗](https://lucky-crumble-24e2d9
 - Currently working with react
 
 <h3>🛠 Tech Stack:</h3>
+
 - 💻 &nbsp; MERN ⚛️
 - 💻 &nbsp; Python | JAVA | JavaScript | Ruby |
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Tailwind CSS
@@ -18,7 +19,7 @@ Be a part of Social-Link Fam [Social-link Fam 🔗](https://lucky-crumble-24e2d9
 - 🖥 &nbsp; Illustrator | Photoshop | Figma | Adobe XD | FRAMER | Skectch
 - 📈 &nbsp; Tableau
 - 📈 &nbsp; Numpy.py | Pandas.py | Matplotlib
-- - 📈 &nbsp; I am an Artist. But i only get to use 0 and 1. Black and white
+- 📈 &nbsp; I am an Artist. But i only get to use 0 and 1. Black and white
     ==========================================================
 
 

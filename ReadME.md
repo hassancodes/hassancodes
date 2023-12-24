@@ -11,7 +11,7 @@ Be a part of Social-Link Fam [Social-link Fam 🔗](https://lucky-crumble-24e2d9
 - Currently working with react
 
 <h3>🛠 Tech Stack:</h3>
-
+- 💻 &nbsp; MERN ⚛️
 - 💻 &nbsp; Python | JAVA | JavaScript | Ruby |
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Tailwind CSS
 - 🔧 &nbsp; Github | PyCharm | Visual Studio code | Git

@@ -19,7 +19,8 @@ Be a part of Social-Link Fam [Social-link Fam 🔗](https://lucky-crumble-24e2d9
 - 🖥 &nbsp; Illustrator | Photoshop | Figma | Adobe XD | FRAMER | Skectch
 - 📈 &nbsp; Tableau
 - 📈 &nbsp; Numpy.py | Pandas.py | Matplotlib
-- 📈 &nbsp; I am an Artist. But i only get to use 0 and 1. Black and white
+- 🎨 &nbsp; I am an artist but I only get to use 0 and 1.
+
     ==========================================================
 
 

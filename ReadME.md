@@ -6,7 +6,7 @@ Be a part of Social-Link Fam [Social-link Fam 🔗](https://lucky-crumble-24e2d9
 
 <h3> '👨🏻‍💻 About Me!😎' </h3>
 
-- 🔭 &nbsp; Software Engineer 💻 | Part Time Designer 
+- 🔭 &nbsp; Software Engineer 💻 | Part Time Designer 🎨
 - 🤔 &nbsp; Building Cool Stuff using my Skills
 - Currently working with react
 

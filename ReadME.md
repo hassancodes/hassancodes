@@ -2,7 +2,7 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/hassancodes/mydata/blob/main/giphy.gif" width="312" heigh='380'/> -->
 
 **Currently Building Social-Link 🔗 in Public.**
-Be a part of Social-Link Fam [Social-link Fam 🔗](https://lucky-crumble-24e2d9.netlify.app/)
+Be a part of Social-Link Fam [Social-link Fam 🔗](https://lucky-crumble-24e2d9.netlify.app/)  .
 
 <h3> '👨🏻‍💻 About Me!😎' </h3>
 
